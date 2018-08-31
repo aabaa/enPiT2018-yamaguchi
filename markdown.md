@@ -1,4 +1,4 @@
-# Markdown記法早見表
+# GitHub Markdown記法早見表
 ## 見出し
 ### 記法
 ```
@@ -224,6 +224,7 @@
   - [ ] サンつがる
 - [ ] パイナップル
 
-## テーブル
-
-## 注釈
+# GitHub Markdown記法 役立つリンク集
+* [[https://guides.github.com/features/mastering-markdown/|Mastering Markdown]]
+* [[https://qiita.com/Qiita/items/c686397e4a0f4f11683d|Markdown記法チートシート]]
+* [[https://qiita.com/kamorits/items/6f342da395ad57468ae3|Qiita マークダウン記法 一覧表・チートシート]]
