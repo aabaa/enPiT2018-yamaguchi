@@ -135,6 +135,11 @@
 ```
 <img width="数値" alt="代替テキスト" src="URL">
 ```
+### 例
+```
+<img width="200px" alt="しろいねこ" src="./cat.jpg">
+```
+<img width="200px" alt="しろいねこ" src="./cat.jpg">
 
 ## チェックリスト
 
