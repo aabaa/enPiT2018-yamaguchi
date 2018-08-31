@@ -225,6 +225,6 @@
 - [ ] パイナップル
 
 # GitHub Markdown記法 役立つリンク集
-* [[https://guides.github.com/features/mastering-markdown/|Mastering Markdown]]
-* [[https://qiita.com/Qiita/items/c686397e4a0f4f11683d|Markdown記法チートシート]]
-* [[https://qiita.com/kamorits/items/6f342da395ad57468ae3|Qiita マークダウン記法 一覧表・チートシート]]
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Markdown記法チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d/)
+* [Qiita マークダウン記法 一覧表・チートシート](https://qiita.com/kamorits/items/6f342da395ad57468ae3/)
