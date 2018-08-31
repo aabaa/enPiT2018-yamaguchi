@@ -115,18 +115,21 @@
 
 
 ## 画像の挿入
+著作権には十分注意すること！
 ### 記法
 ```
 ![リンクテキスト](URL)
 ```
 ### 例
 ```
-[宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+![宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
 ```
-[宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+![宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
 
 
 ## 画像の挿入(サイズ指定)
+著作権には十分注意すること！
+### 記法
 ```
 <img width="数値" alt="代替テキスト" src="URL">
 ```
