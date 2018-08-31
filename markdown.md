@@ -107,11 +107,11 @@
 
 ### 例
 ```
-[google](https://www.google.co.jp "Google.co.jpへジャンプ")  
-[内部トップページ](./index.md "トップページへジャンプ")  
+[外部リンク(google)](https://www.google.co.jp "Google.co.jpへジャンプ")  
+[内部リンク(トップページ)](./index.md "トップページへジャンプ")  
 ```
-[google](https://www.google.co.jp "Google.co.jpへジャンプ")  
-[内部トップページ](./index.md "トップページへジャンプ")  
+[外部リンク(google)](https://www.google.co.jp "Google.co.jpへジャンプ")  
+[内部リンク(トップページ)](./index.md "トップページへジャンプ")  
 
 
 ## 画像の挿入
@@ -122,9 +122,11 @@
 ```
 ### 例
 ```
-![宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+![外部リンク(宇部市旗)](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+![内部リンク(白猫)](./cat.jpg)
 ```
 ![宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+![内部リンク(白猫)](./cat.jpg)  
 
 
 ## 画像の挿入(サイズ指定)
