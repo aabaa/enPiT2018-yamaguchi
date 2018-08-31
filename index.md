@@ -1,2 +1,2 @@
 # 補足資料
-* [Markdown記法早見表](./markdown)  
+* [GitHubのMarkdown記法](./markdown)  
