@@ -1,5 +1,6 @@
 # Markdown記法早見表
 ## 見出し
+### 記法
 ```
 # 大見出し
 ## 2番目に大きい見出し
@@ -10,25 +11,25 @@
 ### 記法
 ```
 半角スペースを2つ入れてから改行する  
-と改行表示される
+と改行表示される  
 もしくは<br>を挿入する
 ```
 ### 例
 ```
-↓ 半角スペースによる改行
+↓ 半角スペースによる改行  
 あいうえお  
 かきくけこ  
 さしすせそ  
   
-↓ brタグによる改行
+↓ brタグによる改行  
 あいうえお<br>かきくけこ<br>さしすせそ  
 ```
-↓ 半角スペースによる改行
+↓ 半角スペースによる改行  
 あいうえお  
 かきくけこ  
 さしすせそ  
   
-↓ brタグによる改行
+↓ brタグによる改行  
 あいうえお<br>かきくけこ<br>さしすせそ  
 
 
@@ -40,9 +41,9 @@
 ~~打ち消し線~~
 ```
 ### 例
-> *もしもし*
-> **亀よ**
-> ~~亀さんよ~~
+> *もしもし*  
+> **亀よ**  
+> ~~亀さんよ~~  
 
 *もしもし*  
 **亀よ**  
@@ -106,17 +107,24 @@
 
 ### 例
 ```
-[google](https://www.google.co.jp "Google.co.jpへジャンプ")
-[トップページ](./index.md "トップページへジャンプ")
+[google](https://www.google.co.jp "Google.co.jpへジャンプ")  
+[内部トップページ](./index.md "トップページへジャンプ")  
 ```
-[google](https://www.google.co.jp "Google.co.jpへジャンプ")
-[トップページ](./index.md "トップページへジャンプ")
+[google](https://www.google.co.jp "Google.co.jpへジャンプ")  
+[内部トップページ](./index.md "トップページへジャンプ")  
 
 
 ## 画像の挿入
+### 記法
 ```
-![テキスト](URL)
+![リンクテキスト](URL)
 ```
+### 例
+```
+[宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+```
+[宇部市旗](https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Ube%2C_Yamaguchi.svg)  
+
 
 ## 画像の挿入(サイズ指定)
 ```
